@@ -2,7 +2,7 @@
 
 ![Demo](assets/1.gif)
 
-![ArmLab](https://img.shields.io/badge/ArmLab-orange)
+![ArmLab](https://img.shields.io/badge/ArmLab-autoStacking-orange)
 ![Primary language](https://img.shields.io/badge/Python-100.0%25-red)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
